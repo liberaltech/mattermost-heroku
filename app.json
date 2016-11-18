@@ -96,7 +96,7 @@
     },
     "SMTP_USERNAME": {
             "description": "",
-            "value": "",
+            "value": "git test",
             "required": false
     },
     "SMTP_PASSWORD": {
